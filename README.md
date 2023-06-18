@@ -1,11 +1,11 @@
-About r-twfy
-============
+About r-twfy-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-twfy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://conjugateprior.github.io/twfy
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-twfy-feedstock/blob/main/LICENSE.txt)
 
 Summary: An R wrapper around the API of TheyWorkForYou, a parliamentary monitoring site that scrapes and repackages Hansard (the UK's parliamentary record) and augments it with information from the Register of Members' Interests, election results, and voting records to provide a unified source of information about UK legislators and their activities. See <http://www.theyworkforyou.com> for details.
 
